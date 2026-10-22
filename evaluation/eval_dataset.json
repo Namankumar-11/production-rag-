@@ -1,0 +1,22 @@
+[
+  {
+    "query": "What is BM25 used for in retrieval?",
+    "relevant_doc_ids": ["retrieval_notes"]
+  },
+  {
+    "query": "How does reciprocal rank fusion combine search results?",
+    "relevant_doc_ids": ["retrieval_notes"]
+  },
+  {
+    "query": "Why is chunking important in a RAG system?",
+    "relevant_doc_ids": ["rag_fundamentals"]
+  },
+  {
+    "query": "What does a cross-encoder do differently from a bi-encoder?",
+    "relevant_doc_ids": ["retrieval_notes"]
+  },
+  {
+    "query": "How is hallucination detected in generated answers?",
+    "relevant_doc_ids": ["rag_fundamentals"]
+  }
+]
